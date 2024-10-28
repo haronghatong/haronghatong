@@ -1,4 +1,4 @@
-## Hi there 👋
+## 현재 수원대학교에 재학 중이며, 데이터과학 전공을 하고 있습니다. 딥러닝과 데이터 분석에 관한 공부를 진행 중이며, 현재는 딥러닝의 객체감지 관련 공부를 진행하고 있습니다.
 
 <!--
 **haronghatong/haronghatong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
