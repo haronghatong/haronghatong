@@ -6,11 +6,11 @@
   
   <!-- Profile Section -->
   <div style="width: 30%; padding: 20px; text-align: center; background-color: #f2f4f8; border-radius: 10px; margin-right: 20px;">
-    <img src="https://github.com/haronghatong/haronghatong/blob/main/%EC%96%BC%EA%B5%B4.jpg" alt="Profile Picture" width="150" style="border-radius:50%;">
-    <h2>이메일</h2>
-      <p>gmail: younghlee0602@gmail.com</p>
-    <h2>블로그</h2>
-      <p>t-story: https://younghlee.tistory.com</p>
+    
+  <h2>이메일</h2>
+    <p>gmail: younghlee0602@gmail.com</p>
+  <h2>블로그</h2>
+    <p>t-story: https://younghlee.tistory.com</p>
 
   </div>
 
