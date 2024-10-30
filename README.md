@@ -1,24 +1,46 @@
-<h1 align="center">이영호 | Youngho Lee</h1>
-<p align="center">저는 세상에 발 맞춰 변화를 추구하는 개발자, 이영호입니다.</p>
 
-<div align="center">
-  <img src="https://github.com/haronghatong/haronghatong/blob/main/%EC%96%BC%EA%B5%B4.jpg" alt="Profile Picture" width="150" style="border-radius:50%;">
+<h1 align="left">이영호 | Youngho Lee</h1>
+<p align="left">세상에 발 맞춰 변화를 추구하는 개발자, 이영호입니다.</p>
+
+<div align="left" style="display: flex; justify-content: center; align-items: flex-start; margin-top: 20px;">
+  
+  <!-- Profile Section -->
+  <div style="width: 30%; padding: 20px; text-align: center; background-color: #f2f4f8; border-radius: 10px; margin-right: 20px;">
+    <img src="https://github.com/haronghatong/haronghatong/blob/main/%EC%96%BC%EA%B5%B4.jpg" alt="Profile Picture" width="150" style="border-radius:50%;">
+    <h2>이메일</h2>
+      <p>gmail: younghlee0602@gmail.com</p>
+    <h2>블로그</h2>
+      <p>t-story: https://younghlee.tistory.com</p>
+
+  </div>
+
+
+
+ <!-- Information Section -->
+ <div style="width: 60%; padding: 20px; background-color: #ffffff;">
+<h2>기술 역량</h2>   
+ <h3>📚 학력 (Education)</h3>
+    <ul>
+      <li><b>수원대학교 경상대학</b><br>데이터과학과 재학<br>2021.03~</li>
+    </ul>
+
+  <h3>📂 활동 (Activities)</h3>
+    <ul>
+      <li><b>AI 부트캠프</b> - 2024.07 ~ 2024.09</li>
+      <li><b>SQLD</b> - 2024.08 ~ 2024.09</li>
+      <li><b>자율주행 공모전</b> - 2024.08 ~ 2024.09</li>
+    </ul>
+
+  <h3>💼 경력 (Work Experience)</h3>
+    <ul>
+      <li>추가 예정</li>
+    </ul>
+
+  <h3>🔧 역량 (Skills)</h3>
+    <ul style="list-style: none;">
+      <li>Python - <progress value="80" max="100"></progress> 80%</li>
+      <li>SQL - <progress value="50" max="100"></progress> 50%</li>
+    </ul>
+    
+  </div>
 </div>
-
-lang: ko-KR   
-
-
-timezone: Asia/Seoul  
-
-title: >이영호 | Youngho Lee
-tagline: 저는 세상에 발 맞춰 변화를 추구하는 개발자, 이영호입니다. 
-description: 
-  이영호의 포트폴리오
-url: ["https://ToasT1ng.github.io"](https://github.com/haronghatong)  # 본인 Git 블로그 주소에 맞게 변경
-github:
-  username: haronghatong # 본인 github 이름, 좌하단 링크 정보에서 사용됨
-social:
-  name: - # 하단 Footer에서 사용됨 (Powered by 있는곳)
-  email: younghlee0602@gmail.com # 본인 이메일 주소, 좌하단 링크 정보에서 사용됨
-
-> **Note**: 위 README.md 파일은 본인의 학력, 경력, 활동, 역량을 보기 쉽게 요약하여 제공합니다. GitHub에서 미리보기를 확인하여 레이아웃을 조정할 수 있습니다.
