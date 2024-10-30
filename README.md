@@ -2,7 +2,6 @@
 <p align="center">저는 세상에 발 맞춰 변화를 추구하는 개발자, 이영호입니다.</p>
 
 <div align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Picture" width="150" style="border-radius:50%; margin-top: 20px;">
 </div>
 
 ---
@@ -21,4 +20,30 @@
         <ul>
           <li>추가 예정</li>
         </ul>
-      </td
+      </td>
+      <td align="center" width="200px">
+        <h3>📂 활동 (Activities)</h3>
+        <ul>
+          <li><b>시부트캠프</b><br>2024.07 ~ 2024.09</li>
+          <li><b>SQLD</b><br>2024.08 ~ 2024.09</li>
+          <li><b>자율주행 공모전</b><br>2024.08 ~ 2024.09</li>
+        </ul>
+      </td>
+      <td align="center" width="200px">
+        <h3>🔧 역량 (Skills)</h3>
+        <ul>
+          <li>Python - 80%</li>
+          <li>SQL - 50%</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📞 Contact
+<p align="center">
+  <b>Phone:</b> +82 10-2949-6309 <br>
+  <b>Email:</b> youngho0602@gmail.com
+</p>
