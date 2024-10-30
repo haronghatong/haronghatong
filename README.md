@@ -7,10 +7,11 @@
   <!-- Profile Section -->
   <div style="width: 30%; padding: 20px; text-align: center; background-color: #f2f4f8; border-radius: 10px; margin-right: 20px;">
     
-  <h2>이메일</h2>
-    <p>gmail: younghlee0602@gmail.com</p>
-  <h2>블로그</h2>
-    <p>t-story: https://younghlee.tistory.com</p>
+  <h2>게인페이지</h2>
+    <p>Gmail: younghlee0602@gmail.com</p>
+    <p>T-story: https://younghlee.tistory.com</p>
+    <p>Notion: https://www.notion.so/77c0c876ed1e44a89f853eae2dd38de7</p>
+   
 
   </div>
 
@@ -39,15 +40,21 @@
 
   <h3>🔧 역량 (Skills)</h3>
     <ul style="list-style: none;">
-      <li>Python - <progress value="60" max="100"></progress> 80%</li>
-      <li>Pytorch - <progress value="20" max="100"></progress> 80%</li>
-      <li>Linux - <progress value="0" max="100"></progress> 80%</li>
-      <li>SQL - <progress value="20" max="100"></progress> 50%</li>
+      <li>Python - <progress value="60" max="100"></progress> 60%</li>
+      <li>Pytorch - <progress value="20" max="100"></progress> 20%</li>
+      <li>Linux - <progress value="0" max="100"></progress> 00%</li>
+      <li>SQL - <progress value="20" max="100"></progress> 20%</li>
     </ul>
 
   <h3>📜 자격증 (license)</h3>
     <ul>
       <li>SQLD</li>
     </ul> 
+
+  <h3>🏆 수상 (license)</h3>
+    <ul>
+      <li>추가 예정</li>
+    </ul>
+    
   </div>
 </div>
