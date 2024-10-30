@@ -27,7 +27,8 @@
   <h3>📂 활동 (Activities)</h3>
     <ul>
       <li><b>AI 부트캠프</b> - 2024.07 ~ 2024.09</li>
-      <li><b>SQLD</b> - 2024.08 ~ 2024.09</li>
+      <li><b>데이터 과학 과 동아리(DNA)</b> - 2024.04 ~ </li>
+      <li><b>AI 취업 동아리(DNA Career)</b> - 2024.04 ~ </li>
       <li><b>자율주행 공모전</b> - 2024.08 ~ 2024.09</li>
     </ul>
 
@@ -38,9 +39,15 @@
 
   <h3>🔧 역량 (Skills)</h3>
     <ul style="list-style: none;">
-      <li>Python - <progress value="80" max="100"></progress> 80%</li>
-      <li>SQL - <progress value="50" max="100"></progress> 50%</li>
+      <li>Python - <progress value="60" max="100"></progress> 80%</li>
+      <li>Pytorch - <progress value="20" max="100"></progress> 80%</li>
+      <li>Linux - <progress value="0" max="100"></progress> 80%</li>
+      <li>SQL - <progress value="20" max="100"></progress> 50%</li>
     </ul>
-    
+
+  <h3>📜 자격증 (license)</h3>
+    <ul>
+      <li>SQLD</li>
+    </ul> 
   </div>
 </div>
