@@ -68,6 +68,7 @@
 
 [![haronghatong's GitHub stats](https://github-readme-stats.vercel.app/api?username=haronghatong&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/haronghatong)
 
-
+<img src="https://github.com/haronghatong/haronghatong/blob/output/github-snake.svg" width="100%">
+dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-snake.svg
 
 
