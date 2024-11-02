@@ -26,44 +26,37 @@
  <!-- Information Section -->
  <div style="width: 60%; padding: 20px; background-color: #ffffff;">
 <h2>기술 역량</h2>   
- <h3>📚 학력 (Education)</h3>
-    <ul>
-      <li><b>수원대학교 경상대학</b><br>데이터과학과 재학<br>2020.03~</li>
-    </ul>
+  
+## 📚 학력 (Education)
+   
+- 수원대학교 경상대학데이터과학과 재학2020.03~
 
-  <h3>📂 활동 (Activities)</h3>
-    <ul>
-      <li><b>AI 부트캠프</b> - 2024.07 ~ 2024.09</li>
-      <li><b>데이터 과학 과 동아리(DNA)</b> - 2024.04 ~ </li>
-      <li><b>AI 취업 동아리(DNA Career)</b> - 2024.04 ~ </li>
-      <li><b>자율주행 공모전</b> - 2024.08 ~ 2024.09</li>
-    </ul>
 
-  <h3>💼 경력 (Work Experience)</h3>
-    <ul>
-      <li>추가 예정</li>
-    </ul>
-
-  <h3>🔧 역량 (Skills)</h3>
-    <ul style="list-style: none;">
-      <li>Pytorch - <progress value="20" max="100"></progress> 20%</li>
-      <li>Linux - <progress value="0" max="100"></progress> 00%</li>
-      <li>SQL - <progress value="20" max="100"></progress> 20%</li>
-    </ul>
-
-  <h3>📜 자격증 (license)</h3>
-    <ul>
-      <li>SQLD</li>
-    </ul> 
-
-  <h3>🏆 수상 (license)</h3>
-    <ul>
-      <li>추가 예정</li>
-    </ul>
+## 📂 활동 (Activities)
     
-  </div>
-</div>
+- AI 부트캠프 - 2024.07 ~ 2024.09
+- 데이터 과학 과 동아리(DNA)</b> - 2024.04 ~ 
+- AI 취업 동아리(DNA Career) - 2024.04 ~ 
+- 자율주행 공모전 - 2024.08 ~ 2024.09
 
+
+## 💼 경력 (Work Experience)
+- 추가예정
+
+## 🔧 역량 (Skills)
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+
+## 📜 자격증 (license)
+- SQLD
+
+  
+## 🏆 수상 (license)</h3>
+- 추가예정
+
+
+    
 
 [![haronghatong's GitHub stats](https://github-readme-stats.vercel.app/api?username=haronghatong&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/haronghatong)
 
