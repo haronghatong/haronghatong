@@ -3,29 +3,16 @@
   
 <div align="left"> 
   
--------
 
-<h1 align="left">이영호 | Youngho Lee</h1>
-<p align="left">세상에 발 맞춰 변화를 추구하는 개발자, 이영호입니다.</p>
 
-<div align="left" style="display: flex; justify-content: center; align-items: flex-start; margin-top: 20px;">
-  
-  <!-- Profile Section -->
-  <div style="width: 30%; padding: 20px; text-align: center; background-color: #f2f4f8; border-radius: 10px; margin-right: 20px;">
-    
-  <h2>게인페이지</h2>
-    <p>Gmail: younghlee0602@gmail.com</p>
-    <p>T-story: https://younghlee.tistory.com</p>
-    <p>Notion: https://www.notion.so/77c0c876ed1e44a89f853eae2dd38de7</p>
+
+
    
 
-  </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haronghatong&label=Profile%20views&color=0e75b6&style=flat" alt="haronghatong" /> </p>
 
 
 
- <!-- Information Section -->
- <div style="width: 60%; padding: 20px; background-color: #ffffff;">
-<h2>기술 역량</h2>   
   
 ## 📚 학력 (Education)
    
@@ -44,9 +31,9 @@
 - 추가예정
 
 ## 🔧 역량 (Skills)
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
 ## 📜 자격증 (license)
 - SQLD
@@ -55,11 +42,19 @@
 ## 🏆 수상 (license)</h3>
 - 추가예정
 
-
+### 📄 개인 페이지
+<div style="display:flex; flex-direction:row;">
+    <a href="younghlee0602@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://younghlee.tistory.com">
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=younghlee&postId=default&theme=santorini" alt="Tistory Badge" style="height:28px; margin-left:5px;">
+    </a>
+    
+</div>
     
 
-[![haronghatong's GitHub stats](https://github-readme-stats.vercel.app/api?username=haronghatong&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/haronghatong)
-
+![haronghatong's GitHub stats](https://github-readme-stats.vercel.app/api?username=haronghatong&show_icons=true&theme=radical)
 <img src="https://github.com/haronghatong/haronghatong/blob/output/github-snake.svg" width="100%">
 
 
