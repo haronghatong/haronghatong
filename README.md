@@ -22,9 +22,12 @@
 ## 📂 활동 (Activities)
     
 - AI 부트캠프 - 2024.07 ~ 2024.09
-- 데이터 과학 과 동아리(DNA)</b> - 2024.04 ~ 
-- AI 취업 동아리(DNA Career) - 2024.04 ~ 
+- 객체 감지 공모전 2024.07 ~ 2024.09
+- 데이터 과학 과 동아리(DNA) - 2024.04 ~ 2024.12
+- AI 취업 동아리(DNA Career) - 2024.04 ~ 2024.12
 - 자율주행 공모전 - 2024.08 ~ 2024.09
+- 미세먼지 데이터 분석 - 2024.09 ~ 2024.12
+- 뉴스 정보 정리 플랫폼 - 2024.09 ~2024.12
 
 
 ## 💼 경력 (Work Experience)
@@ -33,14 +36,32 @@
 ## 🔧 역량 (Skills)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
 
 ## 📜 자격증 (license)
 - SQLD
 
   
 ## 🏆 수상 (license)</h3>
-- 추가예정
+- 창업 동아리 활동 우수(최우수)
+
+
+## 📖 프로젝트(Project)
+| Period                  | Title                                                                                                                                             | Description                                                                                | Role                   | Tech Stack                                                                                    | Result                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------| 
+||||||
+||||||
+||||||
+||||||
+
 
 ### 📄 개인 페이지
 <div style="display:flex; flex-direction:row;">
@@ -52,7 +73,12 @@
     </a>
     
 </div>
-    
+
+
+
+
+
+
 
 ![haronghatong's GitHub stats](https://github-readme-stats.vercel.app/api?username=haronghatong&show_icons=true&theme=radical)
 <img src="https://github.com/haronghatong/haronghatong/blob/output/github-snake.svg" width="100%">
