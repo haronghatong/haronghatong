@@ -58,7 +58,7 @@
 |2024.07~2024.09|자율주행 인공지능 알고리즘 개발 챌린지|도로 데이터를 활용한 객체감지 정확도 향상|-| Python (Tensorflow, Pytorch),Linux|-
 |2024.04~2024.12|취업 동아리(DNA Career)|데이터과학 직무 분석 & 취업 역량 강화 동아리| 팀장 |Notion (Communication & Information Share)| 대상
 |2024.09~2024.12|미세먼지 데이터 분석|경기도 미세먼지 데이터를 통한 미세먼지 취약 지약 분석| 팀장 |Python(Randomforest,XGBoost,LSTM),Tableau| 학교수업(팀 과제)
-|2024.09~2024.12|뉴스 정보 정리 플랫폼|MAKE와 Python을 이용한 개인 맞춤화 뉴스 및 커뮤니티 생성|-|Pyton(openai),MAKE| 학교수업(팀과제)
+|2024.09~2024.12|뉴스 정보 정리 자동화 툴|MAKE와 Python을 이용한 개인 맞춤화 뉴스 및 커뮤니티 생성|-|Pyton(openai),MAKE| 학교수업(팀과제)
 
 ### 📄 개인 페이지
 <div style="display:flex; flex-direction:row;">
