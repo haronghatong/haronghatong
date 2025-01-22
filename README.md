@@ -30,7 +30,7 @@
 
 
 ## 💼 경력 (Work Experience)
-- 추가예정
+- 추가예정 
 
 ## 🔧 역량 (Skills)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
