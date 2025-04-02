@@ -30,7 +30,7 @@
 
 
 ## 💼 경력 (Work Experience)
-- ICT 인턴십 2025.03 ~2025.-06 
+- ICT 인턴십 2025.03 ~2025.06 
 
 ## 🔧 역량 (Skills)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
