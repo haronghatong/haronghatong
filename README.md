@@ -2,15 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+harong+hatong's+GitHub!✌️)](https://git.io/typing-svg)
     
 <div align="left">   
-   
- ![0001GIF (2)](https://github.com/user-attachments/assets/f49615c8-a433-40ad-b83c-fb30a76d37e3)
+    <img src="https://komarev.com/ghpvc/?username=haronghatong&label=Profile%20views&color=0e75b6&style=flat" alt="haronghatong" />
+</div>
 
-  
- 
- 
-    
+<p align="left">
+    <img src="https://github.com/user-attachments/assets/f49615c8-a433-40ad-b83c-fb30a76d37e3" alt="0001GIF" style="width: 300px; height: auto;">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haronghatong&label=Profile%20views&color=0e75b6&style=flat" alt="haronghatong" /> </p>
+
 
 
 
